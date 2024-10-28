@@ -14,4 +14,8 @@
 
 <h2>Prints:</h2>
 
-<img src="https://github.com/Vinidevkz/BankApp-UI/blob/main/prints/print1.jpeg" width="300px">
+<div style="display: flex, flexDirection: "row", gap: 50>
+<img src="https://github.com/Vinidevkz/Bank-UI-App/blob/main/prints/print1.jpeg" width="300px">
+
+<img src="https://github.com/Vinidevkz/Bank-UI-App/blob/main/prints/print2.jpeg" width="300px">
+</div>
